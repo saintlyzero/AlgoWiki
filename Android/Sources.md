@@ -34,6 +34,7 @@ Android
 * [Big Nerd Ranch Android](https://www.amazon.com/Android-Programming-Ranch-Guide-Guides/dp/0134706056/)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
 * [Android's Architecture Components](https://commonsware.com/AndroidArch/)
+* [Kotlin in Action (For Kotlin Development)](https://www.amazon.in/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)
 
 
 ## Blogs
